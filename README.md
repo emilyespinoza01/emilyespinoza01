@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Emily Espinoza!
 - 👀 I’m interested in UX Design and Animation!
 - 🌱 I’m currently learning UX Design and Visual Media.
-- 📫 How to reach me: email: eemily0002@gmail.com, instagram: emik.xc
+- 📫 How to reach me: email: eemily0002@gmail.com
 
 <!---
 emilyespinoza01/emilyespinoza01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
